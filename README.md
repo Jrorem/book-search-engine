@@ -6,13 +6,12 @@ This is a Google Books API search engine with a GraphQL API built with Apollo Se
 
 ## Installation
 
-Clone the repository at 
 
 Make sure to install all the npm packages!
 
 ## Usage
 
-Visit: https://stormy-meadow-75694-2ec7f2c688fd.herokuapp.com/
+https://vast-everglades-96605-1627e2311518.herokuapp.com/
 
 
 
